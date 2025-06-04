@@ -1,73 +1,44 @@
-# Pet Care App
+# Pet Care
 
-A modern Flutter mobile application designed to help pet owners manage their pets' daily care needs. Built with MVVM architecture and Firebase integration for a seamless user experience.
+A comprehensive mobile application for pet owners to manage their pets' daily care needs, schedule vet appointments, and shop for pet supplies.
 
-## 📱 App Preview
+## Overview
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="screenshots/home.png" width="200" alt="Home Screen - Pet Management"/></td>
-      <td><img src="screenshots/profile.png" width="200" alt="Profile Screen - User Dashboard"/></td>
+      <td><img src="screenshots/home.png" width="200"/></td>
+      <td><img src="screenshots/profile.png" width="200"/></td>
     </tr>
     <tr>
-      <td><img src="screenshots/appointment.png" width="200" alt="Appointment Screen - Booking System"/></td>
-      <td><img src="screenshots/shop.png" width="200" alt="Shop Screen - Pet Products"/></td>
+      <td><img src="screenshots/appointment.png" width="200"/></td>
+      <td><img src="screenshots/shop.png" width="200"/></td>
     </tr>
   </table>
 </div>
 
-## ✨ Key Features
+## Features
 
-- **Pet Profile Management**
+- Pet Profile Management
+- Appointment Scheduling System
+- Integrated Pet Shop
+- User Profiles & Settings
+- Real-time Updates
+- Secure Authentication
 
-  - Add and manage multiple pets
-  - Track pet's health metrics
-  - Visual pet type indicators
-  - Customizable pet profiles
+## Technical Stack
 
-- **Smart Appointment System**
+- Flutter & Dart
+- Firebase Backend
+- MVVM Architecture
+- Provider State Management
 
-  - Schedule veterinary visits
-  - Calendar-based booking
-  - View upcoming & past appointments
-  - Appointment reminders
+## Requirements
 
-- **Pet Shop Integration**
+- iOS 11.0+
+- Android 5.0+
+- Flutter 2.0+
 
-  - Browse pet products by category (Food, Vet Items, Accessories, IoT Devices)
-  - Premium pet food selection
-  - Shopping cart functionality
-  - Secure checkout process
+## Contact
 
-- **User Profile & Settings**
-  - Personalized user profiles
-  - Easy appointment management
-  - Order history tracking
-  - Secure authentication
-
-## 🛠 Technology Stack
-
-- **Frontend**: Flutter
-- **Backend**: Firebase
-- **Architecture**: MVVM (Model-View-ViewModel)
-- **State Management**: Provider
-- **Database**: Cloud Firestore
-
-## 🚀 Getting Started
-
-1. Install Flutter (2.0 or higher)
-2. Clone the repository
-3. Run `flutter pub get`
-4. Launch the app with `flutter run`
-
-## 📱 Platform Support
-
-- iOS 11.0 or newer
-- Android 5.0 (API 21) or newer
-
-## 👤 Contact
-
-Wei Chen - [GitHub Profile](https://github.com/wei0328)
-
-Project Link: [https://github.com/wei0328/PetCare-App](https://github.com/wei0328/PetCare-App)
+Wei Chen - [GitHub](https://github.com/wei0328)
