@@ -39,6 +39,33 @@ A comprehensive mobile application for pet owners to manage their pets' daily ca
 - Android 5.0+
 - Flutter 2.0+
 
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/wei0328/Pet-Care.git
+cd Pet-Care
+```
+
+2. Install dependencies
+
+```bash
+flutter pub get
+```
+
+3. Configure Firebase
+
+- Add your Firebase configuration files:
+  - Android: `android/app/google-services.json`
+  - iOS: `ios/Runner/GoogleService-Info.plist`
+
+4. Run the application
+
+```bash
+flutter run
+```
+
 ## Contact
 
 Wei Chen - [GitHub](https://github.com/wei0328)
